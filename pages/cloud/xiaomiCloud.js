@@ -18,6 +18,7 @@ const modelOptions = [
     { value: 'yunmai.scales.ms103', label: 'S400 - yunmai.scales.ms103' },
     { value: 'yunmai.scales.ms107', label: 'S400 - yunmai.scales.ms107' },
     { value: 'yunmai.scales.ms106', label: 'S200 - yunmai.scales.ms106' },
+    { value: 'xiaomi.scales.ms113', label: 'S200 - xiaomi.scales.ms113' },
     { value: 'xiaomi.scales.ms116', label: 'S800 - xiaomi.scales.ms116' },
 
 
